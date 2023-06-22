@@ -57,3 +57,8 @@ p {
   color: black;
   margin-bottom: 20px;
 }
+
+.task14 {
+  display: flex;
+  justify-content: center;
+}
